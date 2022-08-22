@@ -1,2 +1,2 @@
-# projeto-horta-comunit-ria
+# projeto horta comunitaria
 Guilherme Rodrigues de Oliveira
