@@ -1,5 +1,5 @@
 # Projeto horta comunitária
-## Desafio após conclusão dos cursos de férias - ETEC Fernando Prestes
+## Desafio após conclusão do curso de férias - ETEC Fernando Prestes
 ### Integrantes:
 
 Guilherme Rodrigues de Oliveira
